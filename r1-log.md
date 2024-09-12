@@ -4,8 +4,11 @@ The log of my #100DaysOfCode challenge. Started on Sept 12 2024
 
 ## Log
 
-### R1D1 
+### R1D0
 Started looking into countries api app https://prernalele.github.io/countries-api-main/ 
-Problems : Need to look into the theme switcher. 
+Problems : Need to look into the theme switcher.
+
+### R1D1 
+ 
 
 ### R1D2
