@@ -9,6 +9,11 @@ Started looking into countries api app https://prernalele.github.io/countries-ap
 Problems : Need to look into the theme switcher.
 
 ### R1D1 
- 
+ I had recently used this tutorial to learn how to use context API : https://www.youtube.com/watch?v=aAcI_FdfkA8. 
+ So I started with using the same context in passing the "theme" data. Today I only did the ground work
+But tomorrow I will make the switcher working
+Today's commit : https://github.com/prernalele/countries-api-main/commit/b3775395a7d03a4120e53d7473e2b261c692631a
+
+
 
 ### R1D2
