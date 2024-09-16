@@ -4,18 +4,25 @@ The log of my #100DaysOfCode challenge. Started on Sept 12 2024
 
 ## Log
 
-### R1D0
+### R1D0 [Sep 12th 2024]
 Started looking into countries api app https://prernalele.github.io/countries-api-main/ 
 Problems : Need to look into the theme switcher.
 
-### R1D1 
+### R1D1 [Sep 13th 2024]
  I had recently used this tutorial to learn how to use context API : https://www.youtube.com/watch?v=aAcI_FdfkA8. 
  So I started with using the same context in passing the "theme" data. Today I only did the ground work
 But tomorrow I will make the switcher working
 Today's commit : https://github.com/prernalele/countries-api-main/commit/b3775395a7d03a4120e53d7473e2b261c692631a
 
-### R1D2
+### R1D2 [Sep 14th 2024]
 Today I was able to make the mode/theme switcher functional.  Also made changes to ReadMe
 Commit : https://github.com/prernalele/countries-api-main/commit/34f5ce5e855e97a70c67ef1ed37524b34198b608
 Thoughts/TODOs : 
 The light theme is all over the place currently and would need some fixing.
+
+### R1D3 [Sep 14th 2024]
+Finding a bit challenging to make the light mode theme work the way it should. I am passing the theme not as props but using useContext. But the way I am doing isn't DRY so far. 
+commit: https://github.com/prernalele/countries-api-main/commit/b65817c34346bd7932300d29d0ccdca2d720cf5b  
+Thoughts/TODOs : 
+The light theme is all over the place currently and would need some fixing.
+
