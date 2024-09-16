@@ -24,5 +24,9 @@ The light theme is all over the place currently and would need some fixing.
 Finding a bit challenging to make the light mode theme work the way it should. I am passing the theme not as props but using useContext. But the way I am doing isn't DRY so far. 
 commit: https://github.com/prernalele/countries-api-main/commit/b65817c34346bd7932300d29d0ccdca2d720cf5b  
 Thoughts/TODOs : 
-The light theme is all over the place currently and would need some fixing.
+1. The light theme is all over the place currently and would need some fixing.
+2. May be I can revisit the tutorial and see what I might be missing. 
+3. Observed some other bugs with search bar. 
+4. Need to fix the Filter as well
+5. The theme should also be saved so it doesn't go away if the user refreshes the page. 
 
