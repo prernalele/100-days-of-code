@@ -28,5 +28,17 @@ Thoughts/TODOs :
 2. May be I can revisit the tutorial and see what I might be missing. 
 3. Observed some other bugs with search bar. 
 4. Need to fix the Filter as well
-5. The theme should also be saved so it doesn't go away if the user refreshes the page. 
+5. The theme should also be saved so it doesn't go away if the user refreshes the page.
+
+### R1D4 [Sep 16 2024]
+Day 4 of #100DaysOfCode 
+
+Tried Ironing out the light theme some more. Commit : https://github.com/prernalele/countries-api-main/commit/907b0c8aa6df37da4079b0cda6b9832e6adcc10c
+
+ Definitly a work in progress. Also realizing that the site deployed on github pages isn't picking up the changes when I push changes to github. So right now these changes aren't here https://prernalele.github.io/countries-api-main/ 
+
+Thoughts : 
+
+1. the Cards don't look like the design yet. 
+2. I didn't actually spend 2 hours doing this, but I am calling it a win for today. 
 
