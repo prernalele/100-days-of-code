@@ -40,5 +40,13 @@ Tried Ironing out the light theme some more. Commit : https://github.com/prernal
 Thoughts : 
 
 1. the Cards don't look like the design yet. 
-2. I didn't actually spend 2 hours doing this, but I am calling it a win for today. 
+2. I didn't actually spend 2 hours doing this, but I am calling it a win for today.
 
+### R1D5 [Sep 17 2024]
+
+Some more styling changes today. I am baffled about the background-color mystery for when i change themes. I need to look into it some more. But by now i have spent way too much time on it. So from tomorrow I will move on to the Filter changes. 
+Commit : https://github.com/prernalele/countries-api-main/commit/f7cec019f282b66bccd62a3a73779be55d066121
+
+Thoughts : 
+1. "Why am I struggling with something so simple" was playing in my head
+2. I am deciding to move on to Filter feature from tomorrow and revisit this portion some other day (with less coffee in my system may be)
