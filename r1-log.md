@@ -50,3 +50,10 @@ Commit : https://github.com/prernalele/countries-api-main/commit/f7cec019f282b66
 Thoughts : 
 1. "Why am I struggling with something so simple" was playing in my head
 2. I am deciding to move on to Filter feature from tomorrow and revisit this portion some other day (with less coffee in my system may be)
+
+### R1D6 [Sept 19 2024]
+Made Filter functional today : 
+https://github.com/prernalele/countries-api-main/commit/63dc76eb779f27ac59ca9ac83ae47b6686f14eeb 
+
+ToDos: 
+On click for each country , it should open details for that country. 
