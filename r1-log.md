@@ -57,3 +57,11 @@ https://github.com/prernalele/countries-api-main/commit/63dc76eb779f27ac59ca9ac8
 
 ToDos: 
 On click for each country , it should open details for that country. 
+
+### R1D7 [Sept 20th 2024]
+Added a component and connected it to the clicking of the country card. However I am not sure how I can get the value of the country that's being clicked. 
+[commit](https://github.com/prernalele/countries-api-main/commit/382bf781df14d718dc6dda3faabe912727100f3d)
+
+Todos:
+1. Find a way to capture the value of the country being clicked
+2. Build out the component
