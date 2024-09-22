@@ -65,3 +65,13 @@ Added a component and connected it to the clicking of the country card. However 
 Todos:
 1. Find a way to capture the value of the country being clicked
 2. Build out the component
+
+### R1D8 [Sept 21th 2024]
+Built out the component for single country details page. It has a back button to take to the home page and theme switcher. 
+
+[commit](https://github.com/prernalele/countries-api-main/commit/718796d790ee18b251abe9e4b3d209320142fe35)
+
+ToDos:
+1. When I search for the country, and click on it to see the details, it's showing me a different country :D. That's a BUG !! Problem with matching using an index may be ? Need to think this through
+2. There is a small detail right now missing on the details page. The neighbouring countries list. The data that's available to me has country code, I have to do a find and bring up the names of those countries and also make them clickable. if the users click on it, what happens to the boolean that keeps track of whether the singlecountry option is being clicked or not (unsure yet).
+3. gh-pages isn't actually deploying my changes to the site, need to look into that
