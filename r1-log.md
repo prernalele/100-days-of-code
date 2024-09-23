@@ -75,3 +75,12 @@ ToDos:
 1. When I search for the country, and click on it to see the details, it's showing me a different country :D. That's a BUG !! Problem with matching using an index may be ? Need to think this through
 2. There is a small detail right now missing on the details page. The neighbouring countries list. The data that's available to me has country code, I have to do a find and bring up the names of those countries and also make them clickable. if the users click on it, what happens to the boolean that keeps track of whether the singlecountry option is being clicked or not (unsure yet).
 3. gh-pages isn't actually deploying my changes to the site, need to look into that
+
+### R1D9 [Sep 22 2024]
+Styling changes for the country details page. I don't think I was able to succesfully achieve what I had in mind. Will try again tomorrow with a fresh mind. 
+[commit](https://github.com/prernalele/countries-api-main/commit/d316189fa7099d89d347c3c7202f908ab4135d1b)
+
+ToDos: 
+1. Need to set up the back button
+2. What's with the dark theme background
+3. Done resolving the deployment delay mystery. hint it was me. 
