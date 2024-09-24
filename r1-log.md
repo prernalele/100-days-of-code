@@ -83,4 +83,11 @@ Styling changes for the country details page. I don't think I was able to succes
 ToDos: 
 1. Need to set up the back button
 2. What's with the dark theme background
-3. Done resolving the deployment delay mystery. hint it was me. 
+3. Done resolving the deployment delay mystery. hint it was me.
+
+### R1D10 [Sep 23rd 2024]
+More Styling changes to make the details page a bit neater. The problem with the theme's backgrounds are fixed. 
+[Commit](https://github.com/prernalele/countries-api-main/commit/a392edc1a373bf808767864ed8a06c79d015400d)
+ToDo:
+1. Need to solve the bug with search and clicking on the search results
+2. Clickable buttons to list neighbouring countries
