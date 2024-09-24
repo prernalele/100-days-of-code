@@ -91,3 +91,6 @@ More Styling changes to make the details page a bit neater. The problem with the
 ToDo:
 1. Need to solve the bug with search and clicking on the search results
 2. Clickable buttons to list neighbouring countries
+
+### R1D11 [Sep 24th 2024]
+Managed to make everything more horrible , so I had to take my changes back. I will take a fresh look again tomorrow. 
