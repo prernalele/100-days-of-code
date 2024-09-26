@@ -94,3 +94,22 @@ ToDo:
 
 ### R1D11 [Sep 24th 2024]
 Managed to make everything more horrible , so I had to take my changes back. I will take a fresh look again tomorrow. 
+
+### R1D12 [Sep 25 2024]
+Today I restored the way themes were working and made them slightly better. Also I found a probably solution to the bug where , when I search a country and click on it, it was showing me a different details page. However I am yet to properly learn how to update data context. I thought I am doing it right, but it hasn't worked yet. So I need to take a closer look at it tomorrow. 
+[Commit](https://lnkd.in/g-RTiHwG)
+The above change I haven't yet deployed here https://lnkd.in/eR2dqdNJ
+
+### R1D13 [Sep 26 2024]
+Today I was able to fix the bug. Now when you search for a country and click on it, the correct country page opens up
+[Commit](https://github.com/prernalele/countries-api-main/commit/6594c4f811da3787efbcf28a259e78b7a5a1a63e)
+[Live Link] (https://prernalele.github.io/countries-api-main/)
+ToDos : 
+1. No color for the open drop down
+2. Can we paginate the results we get from API ?
+3. The glittching of search bar isn't cool
+4. Mobile friendly? .. not yet.
+5. In the light mode there the theme isn't getting applied properly
+
+Thoughts :
+1. Will I ever finish this Project ?
