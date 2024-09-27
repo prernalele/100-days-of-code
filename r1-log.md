@@ -113,3 +113,10 @@ ToDos :
 
 Thoughts :
 1. Will I ever finish this Project ?
+
+### R1D14 [Sep 27 2024]
+Fixed styling changes for when the search results are displayed
+
+Learning : 
+Learned about viewport height and width to solve the issue. However Found another issue with few countries
+
