@@ -127,3 +127,10 @@ Fixed the one more styling issue with the margins of the home screen
 [commit](https://github.com/prernalele/countries-api-main/commit/9c51922829c73e6098a2fe5385fc034b357021be)
 ToDo : 
 1. List the neighbours and make them clickable
+
+### R1D16 [Sep 29 2024]
+Today I worked on introducing debounce like effect using setTimout for the country input box.
+Also towards evening I got some more time so I was able to put together logic to map through the bordering countries and find their codes and display them. They aren't clickable yet. That's what's next ! 
+ToDo
+When the bordering country is clicked, that should take you to the details page for that country. 
+
