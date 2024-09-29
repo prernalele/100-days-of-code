@@ -120,3 +120,10 @@ Fixed styling changes for when the search results are displayed
 Learning : 
 Learned about viewport height and width to solve the issue. However Found another issue with few countries
 
+### R1D15 [Sep 28 2024]
+Fixed the background issue when I scroll down
+Fixed a bug with the countries who do not have currencies listed
+Fixed the one more styling issue with the margins of the home screen
+[commit](https://github.com/prernalele/countries-api-main/commit/9c51922829c73e6098a2fe5385fc034b357021be)
+ToDo : 
+1. List the neighbours and make them clickable
