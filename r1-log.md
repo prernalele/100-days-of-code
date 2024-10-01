@@ -135,3 +135,12 @@ Also towards evening I got some more time so I was able to put together logic to
 ##### ToDo
 When the bordering country is clicked, that should take you to the details page for that country. 
 
+### R1D17 [Sep 30 2024]
+1. Fixed a couple of styling issues
+2. Fixed the corner case when there are no bordering countries listed
+3. Added arround icon for the back button and for some reason this is the one that took most of my time today.
+[commit](https://github.com/prernalele/countries-api-main/commit/8d5191572641aa9088f566f2a589fffa96098c0e)
+ToDos:
+1. Make bordering countries clickable
+2. Mobile Friendly.
+
