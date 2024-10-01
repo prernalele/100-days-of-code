@@ -144,3 +144,13 @@ ToDos:
 1. Make bordering countries clickable
 2. Mobile Friendly.
 
+### R1D18 [Oct 1st 2024]
+1. Added media queries to make it more eye pleasing for other screen sizes. [commit: Media Queries](https://github.com/prernalele/countries-api-main/commit/1da5e176a57c4d3eeb5f6746d95b448c7a91c53a)
+2. Made border countries clickable. [commit: Make borders clickable](https://github.com/prernalele/countries-api-main/commit/1da5e176a57c4d3eeb5f6746d95b448c7a91c53a)
+
+ToDo: 
+1. Search icon appearing outside input box, needs fixing
+2. Look for opportunities to refactor.
+
+
+
