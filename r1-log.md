@@ -152,5 +152,9 @@ ToDo:
 1. Search icon appearing outside input box, needs fixing
 2. Look for opportunities to refactor.
 
+### R1D19 [Oct 2nd 2024]
+Added more media queries and made the search icon appear inside the input box. That was some good learning about CSS positioning. Also made it so that the user preference of theme doesn't go away when they refresh the page
+[commit]: (https://github.com/prernalele/countries-api-main/commit/1cda1e7301cf2f609fdef94fe99c56e7a92e6be6)
+
 
 
