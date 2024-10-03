@@ -156,5 +156,11 @@ ToDo:
 Added more media queries and made the search icon appear inside the input box. That was some good learning about CSS positioning. Also made it so that the user preference of theme doesn't go away when they refresh the page
 [commit]: (https://github.com/prernalele/countries-api-main/commit/1cda1e7301cf2f609fdef94fe99c56e7a92e6be6)
 
+### R1D20 [Oct 3rd 2024]
+This morning I thought I might not get much done today as my daughter is home. But we went to the library towards afternoon, she read a book and I finished the last bit things left in this project. (So thankful for libraries !!!)
 
+I picked up a small portion, making the search partial, and few more styling changes etc and I felt like this might be a good stoping point. I do have some things to fix still . But I submitted it anyway or else this would never get done and I would keep hoping to make it perfect. 
 
+You can see my solution here: https://www.frontendmentor.io/solutions/responsive-mobile-friendly-country-search-with-usecontext-theme-switch-a_nKExfVPF
+
+Any suggestions on how I can improve are welcome! 
