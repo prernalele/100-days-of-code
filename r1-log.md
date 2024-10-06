@@ -164,3 +164,7 @@ I picked up a small portion, making the search partial, and few more styling cha
 You can see my solution here: https://www.frontendmentor.io/solutions/responsive-mobile-friendly-country-search-with-usecontext-theme-switch-a_nKExfVPF
 
 Any suggestions on how I can improve are welcome! 
+
+###Day 21 of hashtag#100DaysOfCode [Oct 5th 2024]
+
+Took some time to decide next project. I have decided on this one, https://lnkd.in/eeWJ2ina. Today I only got set up. I will start building out from tomorrow. I had a good break and watched a couple of videos on what I can learn next etc.
