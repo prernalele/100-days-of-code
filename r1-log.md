@@ -168,3 +168,6 @@ Any suggestions on how I can improve are welcome!
 ###Day 21 of hashtag#100DaysOfCode [Oct 5th 2024]
 
 Took some time to decide next project. I have decided on this one, https://lnkd.in/eeWJ2ina. Today I only got set up. I will start building out from tomorrow. I had a good break and watched a couple of videos on what I can learn next etc.
+
+### Day 22 of #100DaysOfCode [Oct 6th 2024]
+I felt like this is a great time to resume "Namaste react" tutorial because I was setting up the new project. It was great, I got to learn about npm , bundlers like Parcel, vite, webpack etc, node_modules, dev dependencies and how the bundlers themselves have dependencies of their own. I am really liking this deep dive approach that Akshay Saini. I am only on the second video and it's very long but much needed. I have come to realize is that practicing coding or any good habit building is kind of like cooking. When we put something on simmering heat, it takes time yet you know the result is going to be good. 
