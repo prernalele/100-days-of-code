@@ -172,7 +172,11 @@ Took some time to decide next project. I have decided on this one, https://lnkd.
 ### Day 22 of #100DaysOfCode [Oct 6th 2024]
 I felt like this is a great time to resume "Namaste react" tutorial because I was setting up the new project. It was great, I got to learn about npm , bundlers like Parcel, vite, webpack etc, node_modules, dev dependencies and how the bundlers themselves have dependencies of their own. I am really liking this deep dive approach that Akshay Saini. I am only on the second video and it's very long but much needed. I have come to realize is that practicing coding or any good habit building is kind of like cooking. When we put something on simmering heat, it takes time yet you know the result is going to be good. 
 
-# Day 23 of #100DaysOfCode [Oct 7th 2024]
+### Day 23 of #100DaysOfCode [Oct 7th 2024]
 1. Finished Video 2 part 2 of Namaste React and tried some things related to setup
 2. Explored Tailwind for the new product card list project. And went through few tutorials on how to use it
+
+### Day 24 of #100DaysOfCode [Oct 8th 2024]
+Today I realized that I had problem with Tailwind setup. The problem was with the way I mentioned paths of the files in it's configuration. It wasn't exactly to obvious for me, so I searched online for why my Tailwindcss classes weren't being recognized and found a solution.  So after correcting that. And reading up on how to set up basic fonts etc, I was able to set up a background and just barely got started with building it out. I still feel pretty happy with today's progress even though there is very little to show. 
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/b1c28a41862b2ff6c870bab0d17ae221dfda1d5e)
    
