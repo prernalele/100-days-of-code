@@ -179,4 +179,9 @@ I felt like this is a great time to resume "Namaste react" tutorial because I wa
 ### Day 24 of #100DaysOfCode [Oct 8th 2024]
 Today I realized that I had problem with Tailwind setup. The problem was with the way I mentioned paths of the files in it's configuration. It wasn't exactly to obvious for me, so I searched online for why my Tailwindcss classes weren't being recognized and found a solution.  So after correcting that. And reading up on how to set up basic fonts etc, I was able to set up a background and just barely got started with building it out. I still feel pretty happy with today's progress even though there is very little to show. 
 [commit](https://github.com/prernalele/product-list-with-cart-main/commit/b1c28a41862b2ff6c870bab0d17ae221dfda1d5e)
+
+### Day 25 of #100DaysOfCode [Oct 9th 2024]
+1) Able to fetch the data
+2) Able to display details but for some reason my images aren't getting displayed. So tomorrow I need to figure that out. I added them to public folder but still that isn't helping either.
+   [commit](https://github.com/prernalele/product-list-with-cart-main/commit/e946b6792f373d67f34b6478644f29e55023b4bd)
    
