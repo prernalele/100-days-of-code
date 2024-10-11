@@ -185,3 +185,14 @@ Today I realized that I had problem with Tailwind setup. The problem was with th
 2) Able to display details but for some reason my images aren't getting displayed. So tomorrow I need to figure that out. I added them to public folder but still that isn't helping either.
    [commit](https://github.com/prernalele/product-list-with-cart-main/commit/e946b6792f373d67f34b6478644f29e55023b4bd)
    
+### Day 26 of #100DaysOfCode [Oct 10th 2024]
+Tried fixing the picture not rendering thing to no avail. I kept thinking it HAS to be the path that's wrong and If I could just give a path that it can access then I am golden. 
+
+### Day 27 of #100DaysOfCode [Oct 11th 2024]
+**Problem**
+I was stuck in the same problem (as yesterday) where the pictures in the image tag were not being rendered. For reference I am working on a project based on React, TailwindCss and Parcel. I saw my code, compared it with previous one. Kept thinking it's just Image tag with an src, so how is it that it works for one project and doesn't work for another. 
+**Solution**
+Then I thought ok so what do I know so far. I know that my current project is built using Parcel. This is the first time I am using it. Is there something specific about this bundler that I don't know. ( I mean there is a LOT that I don't know but specific to image rendering or build itself). I googled and voila! so many others suffered the same issue. Some conversations suggested to use a parcel plugin "parcel reporter static files copy". So after struggling a bit more about setup etc I followed this documentation : https://www.npmjs.com/package/parcel-reporter-static-files-copy and now my images are rendering. 
+**Take aways** : 
+1. Static images exist in an asset folder or somewhere. Parcel by itself somehow doesn't have the capability to see it at the time of building. So we need the pluggin, to have it automatically copied to dist folder.
+2. Whenever I am getting stuck it's all teaching me something new. Once I solve it I feel almost thankful that the issue even happened, because I would never have learned about it otherwise.  
