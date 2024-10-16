@@ -195,4 +195,9 @@ I was stuck in the same problem (as yesterday) where the pictures in the image t
 Then I thought ok so what do I know so far. I know that my current project is built using Parcel. This is the first time I am using it. Is there something specific about this bundler that I don't know. ( I mean there is a LOT that I don't know but specific to image rendering or build itself). I googled and voila! so many others suffered the same issue. Some conversations suggested to use a parcel plugin "parcel reporter static files copy". So after struggling a bit more about setup etc I followed this documentation : https://www.npmjs.com/package/parcel-reporter-static-files-copy and now my images are rendering. 
 **Take aways** : 
 1. Static images exist in an asset folder or somewhere. Parcel by itself somehow doesn't have the capability to see it at the time of building. So we need the pluggin, to have it automatically copied to dist folder.
-2. Whenever I am getting stuck it's all teaching me something new. Once I solve it I feel almost thankful that the issue even happened, because I would never have learned about it otherwise.  
+2. Whenever I am getting stuck it's all teaching me something new. Once I solve it I feel almost thankful that the issue even happened, because I would never have learned about it otherwise.
+3. 
+
+### Day 28 of #100DaysOfCode [Oct 15 2024]
+Struggling with figuring out TailwindCSS classes to have the menu displayed properly. The font isn't right either. 
+[commit] | (https://github.com/prernalele/product-list-with-cart-main/commit/f0cb309f485b2e3190033f0d1d7167821ac1a401)
