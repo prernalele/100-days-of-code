@@ -206,3 +206,12 @@ Struggling with figuring out TailwindCSS classes to have the menu displayed prop
 Figured out TailwindCSS quite a bit now. Also took this opportunity to understand flexbox little more. 
 [Commit](https://github.com/prernalele/product-list-with-cart-main/commit/54625fd6b51f192ebe2690df0cd044abcf11390e)
 My site isn't being published properly. Most likely i am missing some build folder that needs to be on github. I thought it's dist, so I took it out from gitignore. But that didn't fix it. 
+
+### Day 30th of #100DaysOfCode [Oct 17th 2024]
+I was able to get it looking closer to the design today. The knowledge of flexbox came in handy. Learned how to extend the TailwindCSS configuration to have a custom color. I am starting to like TailwindCSS. 
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/25f70efc856b9ce601099434dc7166a971114fd4): 
+I have devided the rest of the work in the following ToDo list. 
+ToDo : 
+1. Work on Adding the items to the cart. Display an add button and functionality
+2. Display the number of items added on top of the cart
+3. Show what's added in the cart and also show quantity below the item that's added.
