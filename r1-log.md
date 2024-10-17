@@ -201,3 +201,8 @@ Then I thought ok so what do I know so far. I know that my current project is bu
 ### Day 28 of #100DaysOfCode [Oct 15 2024]
 Struggling with figuring out TailwindCSS classes to have the menu displayed properly. The font isn't right either. 
 [commit] | (https://github.com/prernalele/product-list-with-cart-main/commit/f0cb309f485b2e3190033f0d1d7167821ac1a401)
+
+### Day29 of #100DaysOfCode [Oct 16th 2024]
+Figured out TailwindCSS quite a bit now. Also took this opportunity to understand flexbox little more. 
+[Commit](https://github.com/prernalele/product-list-with-cart-main/commit/54625fd6b51f192ebe2690df0cd044abcf11390e)
+My site isn't being published properly. Most likely i am missing some build folder that needs to be on github. I thought it's dist, so I took it out from gitignore. But that didn't fix it. 
