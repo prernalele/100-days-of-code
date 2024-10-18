@@ -215,3 +215,7 @@ ToDo :
 1. Work on Adding the items to the cart. Display an add button and functionality
 2. Display the number of items added on top of the cart
 3. Show what's added in the cart and also show quantity below the item that's added.
+
+### Day 31st of #100DaysOfCode [Oct 18th 2024]
+Today I made Add to cart functional. 
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/eff1c965a626a09f70e3fbecced92c11a4d62059)
