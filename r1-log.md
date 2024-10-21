@@ -224,10 +224,13 @@ Today I made Add to cart functional.
 Add to cart now has an increment and decrement signs. You can hover over it , add and subtract items. The total number of items are displayed in the cart. 
 TODOs:
 1. Which item and quantity needs to be displayed in the cart.
-2. Individual quantity needs to be displayed in Add to cart button. 
+2. Individual quantity needs to be displayed in Add to cart button.
+[Commit](https://github.com/prernalele/product-list-with-cart-main/commit/30c9529b1625f5f88ff34ada4c6739008237ef00)
+
 
 ### Day 33rd of #100DaysOf Code [Oct 20th 2024]
 The item details component is created. This is still work in progress. Trying to see the most DRY way of displaying items and maintaining and using state wisely. 
 TODO: 
 1. Right now a total quantity is displayed, not for each item. that needs to be done
 2. Need to figure out cart's JSX when it displays items
+[Commit](https://github.com/prernalele/product-list-with-cart-main/commit/f64bfecbfb626f83ec2be4cadfa016e2b4e4257c)
