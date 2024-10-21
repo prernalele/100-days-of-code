@@ -219,3 +219,15 @@ ToDo :
 ### Day 31st of #100DaysOfCode [Oct 18th 2024]
 Today I made Add to cart functional. 
 [commit](https://github.com/prernalele/product-list-with-cart-main/commit/eff1c965a626a09f70e3fbecced92c11a4d62059)
+
+### Day 32nd of #100DaysOfCode [Oct 19th 2024]
+Add to cart now has an increment and decrement signs. You can hover over it , add and subtract items. The total number of items are displayed in the cart. 
+TODOs:
+1. Which item and quantity needs to be displayed in the cart.
+2. Individual quantity needs to be displayed in Add to cart button. 
+
+### Day 33rd of #100DaysOf Code [Oct 20th 2024]
+The item details component is created. This is still work in progress. Trying to see the most DRY way of displaying items and maintaining and using state wisely. 
+TODO: 
+1. Right now a total quantity is displayed, not for each item. that needs to be done
+2. Need to figure out cart's JSX when it displays items
