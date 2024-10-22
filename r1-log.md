@@ -228,9 +228,15 @@ TODOs:
 [Commit](https://github.com/prernalele/product-list-with-cart-main/commit/30c9529b1625f5f88ff34ada4c6739008237ef00)
 
 
-### Day 33rd of #100DaysOf Code [Oct 20th 2024]
+### Day 33rd of #100DaysOfCode [Oct 20th 2024]
 The item details component is created. This is still work in progress. Trying to see the most DRY way of displaying items and maintaining and using state wisely. 
 TODO: 
 1. Right now a total quantity is displayed, not for each item. that needs to be done
 2. Need to figure out cart's JSX when it displays items
 [Commit](https://github.com/prernalele/product-list-with-cart-main/commit/f64bfecbfb626f83ec2be4cadfa016e2b4e4257c)
+
+### Day 34th of #100DaysOfCode [Oct 21st 2024]
+I made a couple of changes in the way I am trying to save the state in storing the items, quantity and price information. In effect I deleted more code than I added. But it felt the right thing to do because I gained some more clarity on how I want to display this in cart and in individual item. 
+
+### Day 35th of #100DaysOfCode [Oct 22nd 2024]
+Made some styling changes to properly display the increment decrement images and have them centered in a way that doesn't disturb the other div's styling. Atleast that was the goal. I would need to come back to this goal again tomorrow. [Commit](https://github.com/prernalele/product-list-with-cart-main/commit/482daca260d55ebc9ad8ded59962e668eafc0c61)
