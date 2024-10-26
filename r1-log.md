@@ -240,3 +240,17 @@ I made a couple of changes in the way I am trying to save the state in storing t
 
 ### Day 35th of #100DaysOfCode [Oct 22nd 2024]
 Made some styling changes to properly display the increment decrement images and have them centered in a way that doesn't disturb the other div's styling. Atleast that was the goal. I would need to come back to this goal again tomorrow. [Commit](https://github.com/prernalele/product-list-with-cart-main/commit/482daca260d55ebc9ad8ded59962e668eafc0c61)
+
+### Day 36th of #100DaysOfCode [Oct 23nd 2024]
+Realized that yesterday's styling changes messes up the positioning when we scroll down. So fixed that. 
+[No commits]
+
+### Day 37th of #100DaysOfCode [Oct 24th 2024]
+Fixing the case when an item already exists then how should I update it's quantity and not add it twice. 
+In doing so I re-wrote the logic I had previously written
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/4ac34e3af1cd0579170b2fff56c033a6c40b07ad)
+
+### Day 38th of #100DaysOfCode [Oct 25th 2024]
+Fixed the logic for adding items to the cart totally. Now the existing items can be incremented and new items can be added. 
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/01289a082e7e899340d6e839708b4de3de2794f2)
+
