@@ -260,3 +260,7 @@ Also fixed the styling issue with the hover. Now one div containing the add and 
 [commit](https://github.com/prernalele/product-list-with-cart-main/commit/78fb3b940c491a440c2371a5d908b9fb2a374263)
 [commit](https://github.com/prernalele/product-list-with-cart-main/commit/c150da962516e01b8a04b4348fbff1d282a564cf)
 [commit](https://github.com/prernalele/product-list-with-cart-main/commit/6f777cdabf9b0b2efbe10e73f828626ab65827f3)
+
+### Day 40th of #100DaysOfCode [Oct 27th 2024]
+Made a function that can figure out the item's quantity that the user is currently trying to modify
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/7aacffed00018747f9e48aba3502397643ac61a4)
