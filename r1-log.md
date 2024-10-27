@@ -254,3 +254,9 @@ In doing so I re-wrote the logic I had previously written
 Fixed the logic for adding items to the cart totally. Now the existing items can be incremented and new items can be added. 
 [commit](https://github.com/prernalele/product-list-with-cart-main/commit/01289a082e7e899340d6e839708b4de3de2794f2)
 
+### Day 39th of #100DaysOfCode [Oct 26th 2024]
+Fixed the logic for adding and subtracting items in the cart. Now existing items can be added and taken away. 
+Also fixed the styling issue with the hover. Now one div containing the add and minus operators are displaying at the center on hover. I made use of group-hover to achieve this. 
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/78fb3b940c491a440c2371a5d908b9fb2a374263)
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/c150da962516e01b8a04b4348fbff1d282a564cf)
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/6f777cdabf9b0b2efbe10e73f828626ab65827f3)
