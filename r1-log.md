@@ -264,3 +264,8 @@ Also fixed the styling issue with the hover. Now one div containing the add and 
 ### Day 40th of #100DaysOfCode [Oct 27th 2024]
 Made a function that can figure out the item's quantity that the user is currently trying to modify
 [commit](https://github.com/prernalele/product-list-with-cart-main/commit/7aacffed00018747f9e48aba3502397643ac61a4)
+
+### Day 41st of #100DaysOfCode [Oct 28th 2024]
+1. Added some more styling changes to make the increment decrement operators appear properly
+2. Made a component to display the items being added
+[Commit](https://github.com/prernalele/product-list-with-cart-main/commit/7f0a470f0fa65263647311cf8bee7e7d58ae34a4)
