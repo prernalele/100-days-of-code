@@ -269,3 +269,11 @@ Made a function that can figure out the item's quantity that the user is current
 1. Added some more styling changes to make the increment decrement operators appear properly
 2. Made a component to display the items being added
 [Commit](https://github.com/prernalele/product-list-with-cart-main/commit/7f0a470f0fa65263647311cf8bee7e7d58ae34a4)
+
+### Day 42nd of #100DaysOfCode [Oct 30th 2024]
+Styling changes for increment decrement case
+https://github.com/prernalele/product-list-with-cart-main/commit/8b989022097b5a95e5d4aa1eea0cb2503580279e
+
+### Day43rd of #100DaysOfCode [Nov 4th 2024]
+Tried setting up vercel. The website is up but somehow my Tailwind isn't setup correctly so classes aren't properly being applied
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/af1def0f7ba4301efd5e8eadb7695cc195660ac3)
