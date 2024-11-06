@@ -277,3 +277,9 @@ https://github.com/prernalele/product-list-with-cart-main/commit/8b989022097b5a9
 ### Day43rd of #100DaysOfCode [Nov 4th 2024]
 Tried setting up vercel. The website is up but somehow my Tailwind isn't setup correctly so classes aren't properly being applied
 [commit](https://github.com/prernalele/product-list-with-cart-main/commit/af1def0f7ba4301efd5e8eadb7695cc195660ac3)
+
+### Day 44th of #100DaysOfCode [Nov 5th 2024]
+Tried fixing the "id" Vs id error. It's still happening. and I need to re-visit this code. 
+The build issue/Parcel's pathing tantrums are still unresolved. I changed a bunch based on google search but of no help
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/dbd01023a5f464e67a16452b22069a5eeb99d964)
+
