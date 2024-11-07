@@ -283,3 +283,10 @@ Tried fixing the "id" Vs id error. It's still happening. and I need to re-visit 
 The build issue/Parcel's pathing tantrums are still unresolved. I changed a bunch based on google search but of no help
 [commit](https://github.com/prernalele/product-list-with-cart-main/commit/dbd01023a5f464e67a16452b22069a5eeb99d964)
 
+### Day 45th of #100DaysOfCode [Nov 6th 2024]
+I was having difficulty deploying my website to github pages. So I posted my question in a wonderful group of women, Frontend Queen and one of them decided to help me out. I took help from Gillian so I can resolve pathing issues with Parcel. A pair programming session of 45 minutes resulted in me learning a couple of things :
+  1. It's best to include a targets section in package.json and define publicUrl under it.
+  2. The build script should (or can) have a --dist-dir doc, which says that the output build goes in doc folder. We       tried it using Public folder that didn't actually work
+  3. The paths mentioned in index.html then can have "./" removed because parcel knows the publicUrl that we  declared.
+  4. You can build the site, open index.html with live server to make sure that the build is what you need. This is a good way to check before you push your changes and they then get deployed.
+     With that said, here is the [link](https://prernalele.github.io/product-list-with-cart-main/) to the project finally deployed. I can move on to the other issues plaguing it. 
