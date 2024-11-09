@@ -289,4 +289,15 @@ I was having difficulty deploying my website to github pages. So I posted my que
   2. The build script should (or can) have a --dist-dir doc, which says that the output build goes in doc folder. We       tried it using Public folder that didn't actually work
   3. The paths mentioned in index.html then can have "./" removed because parcel knows the publicUrl that we  declared.
   4. You can build the site, open index.html with live server to make sure that the build is what you need. This is a good way to check before you push your changes and they then get deployed.
-     With that said, here is the [link](https://prernalele.github.io/product-list-with-cart-main/) to the project finally deployed. I can move on to the other issues plaguing it. 
+     With that said, here is the [link](https://prernalele.github.io/product-list-with-cart-main/) to the project finally deployed. I can move on to the other issues plaguing it.
+
+### Day 45th of #100DaysOfCode [Nov 7th 2024]
+Fixed the methods that were responsible for adding and removing items on cart. Problem was that I was passing the ID in a way which was not reliably received by e.target.value. I learned that a better approach is to pass the whole object when trying to figure out which exact item was clicked. And then read the ID through the object. 
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/a40ed0c512f88ac48cd22961cb4340af08cb36bc)
+
+### Day 46th of #100DaysOfCode [Nov 8th 2024]
+Made the calculation on the DisplayShoppingCart component look prettier. 
+[commit](https://github.com/prernalele/product-list-with-cart-main/commit/7312c03623bb349c740d6366f8ee9744d21fecf3)
+
+### Day 47th of #100DaysOfCode [Nov 9th 2024]
+
