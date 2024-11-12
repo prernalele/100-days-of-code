@@ -303,3 +303,8 @@ Made the calculation on the DisplayShoppingCart component look prettier.
 CSS tutorial to gain knowledge about Flexbox and Grid and whether I should change things now in my product cart list so make it more even looking rather than cluttered. 
 https://web.dev/learn/css/flexbox?continue=https%3A%2F%2Fweb.dev%2Flearn%2Fcss%23article-https%3A%2F%2Fweb.dev%2Flearn%2Fcss%2Fflexbox 
 
+### Day 48th of #100DaysOfCode [Nov 11th 2024]
+Made use of the flex-grow-1 to fill in a blank space that was remaining between Dessert cards and shopping cart. Applied some corrections and some styling to Shopping cart. Added a remove items button for each item in the shopping cart
+https://github.com/prernalele/product-list-with-cart-main/commit/c69fddd48490e723c2d6444376a336c67b006067
+
+
