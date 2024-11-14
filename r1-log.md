@@ -307,4 +307,15 @@ https://web.dev/learn/css/flexbox?continue=https%3A%2F%2Fweb.dev%2Flearn%2Fcss%2
 Made use of the flex-grow-1 to fill in a blank space that was remaining between Dessert cards and shopping cart. Applied some corrections and some styling to Shopping cart. Added a remove items button for each item in the shopping cart
 https://github.com/prernalele/product-list-with-cart-main/commit/c69fddd48490e723c2d6444376a336c67b006067
 
+### Day 49th of #100DaysOfCode [Nov 12th 2024]
+Added an order total calculation and display. Arranged the items in cart per design
+
+https://github.com/prernalele/product-list-with-cart-main/commit/8f5ab31ad340a185b4f750b171c51c17c4794558
+
+### Day 50th of #100DaysOfCode [Nov 13th 2024]
+Fixed a couple of bugs regarding total not getting calculated properly.
+Fixed styling for the cart and items displayed within it.
+Fixed the case when the user tries to remove an item from the cart using "x" icon next to the item in the cart.
+Fixed the case of when a default image should appear given now that the user can remove items in two ways.
+[Commit](https://github.com/prernalele/product-list-with-cart-main/commit/a3757edfe94fa0ae5d072aa25f4c184aa4942ed2)
 
