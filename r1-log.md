@@ -319,3 +319,15 @@ Fixed the case when the user tries to remove an item from the cart using "x" ico
 Fixed the case of when a default image should appear given now that the user can remove items in two ways.
 [Commit](https://github.com/prernalele/product-list-with-cart-main/commit/a3757edfe94fa0ae5d072aa25f4c184aa4942ed2)
 
+### Day 51st, 52nd of #100DaysOfCode [Nov 20th, 21st, 22nd 2024]
+Learned to setup a supabase database, and set up an application supa smoothies on top of it , so we can CRUD
+https://github.com/prernalele/supabase-tutorial-for-beginners/commits/main/
+
+### Day 53rd of #100DaysOfCode [Nov 23rd 2024]
+Wrapping up the Supa smoothies project and learned the row level securities and how to set it up etc. 
+
+### Day 54th of #100DaysOfCode [Nov 24th 2024]
+Starting a new project with https://www.youtube.com/watch?v=-xXASlyU0Ck&t=288s this project
+
+
+
